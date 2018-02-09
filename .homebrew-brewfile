@@ -1,0 +1,7 @@
+cask_args appdir: "/Applications"
+
+cask "evernote" # notetaking
+cask "google-backup-and-sync"
+cask "dropbox"
+cask "spotify"
+cask "whatsapp"
